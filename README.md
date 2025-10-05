@@ -1,5 +1,10 @@
+<p align='center'>
+<img src="emblema_fortificacao_construcao_lego_cinza.png" alt="Descrição" style="width:60%; height:auto;">
+</p>
 
-![Fortificação e Construção](emblema_fortificacao_construcao_lego_cinza.png)
+
+
+<!-- ![Fortificação e Construção](emblema_fortificacao_construcao_lego_cinza.png) -->
 
 <!--
 **RodrigoIME/RodrigoIME** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
