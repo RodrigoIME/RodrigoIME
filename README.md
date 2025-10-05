@@ -1,4 +1,5 @@
-## Hi there 👋
+
+![Fortificação e Construção](emblema_fortificacao_construcao_lego_cinza.png)
 
 <!--
 **RodrigoIME/RodrigoIME** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
