@@ -11,7 +11,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Ensignia_Python" style="width:10%; height:auto;">
 
 _______________________________________________________________________________________________________________________________________________________________
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoIME&show_icons=true&theme=dracula)
 <!-- ![Fortificação e Construção](emblema_fortificacao_construcao_lego_cinza.png) -->
 
 <!--
