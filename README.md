@@ -1,5 +1,5 @@
 <p align='center'>
-<img src="emblema_fortificacao_construcao_lego_cinza.png" alt="Descrição" style="width:60%; height:auto;">
+<img src="emblema_fortificacao_construcao_lego_cinza.png" alt="Descrição" style="width:30%; height:auto;">
 </p>
 
 
