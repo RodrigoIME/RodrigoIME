@@ -8,7 +8,7 @@
 
 ## &nbsp;My Stack
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Ensignia_Python" style="width:10%; height:auto;">
 
 <!-- ![Fortificação e Construção](emblema_fortificacao_construcao_lego_cinza.png) -->
 
