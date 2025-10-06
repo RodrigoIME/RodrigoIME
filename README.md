@@ -12,6 +12,8 @@
 
 _______________________________________________________________________________________________________________________________________________________________
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoIME&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoIME&layout=compact)
 <!-- ![Fortificação e Construção](emblema_fortificacao_construcao_lego_cinza.png) -->
 
 <!--
