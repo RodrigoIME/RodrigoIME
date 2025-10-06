@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-  Python Developer • Python scripsts for Revit
+  Python Developer • Python scripts for Revit
 </h3>
 
 
