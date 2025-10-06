@@ -11,11 +11,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Ensignia_Python" style="width:10%; height:auto;">
 
 _______________________________________________________________________________________________________________________________________________________________
-
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RodrigoIMECode&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0"> 
-
- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoIMECode&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0">
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 <!-- ![Fortificação e Construção](emblema_fortificacao_construcao_lego_cinza.png) -->
 
 <!--
